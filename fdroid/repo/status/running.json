@@ -40,9 +40,10 @@
       "repo/icons-640/com.android.vending.5.png",
       "repo/icons-640/com.gsnathan.pdfviewer.31.png",
       "repo/icons/com.android.vending.5.png",
-      "repo/icons/com.gsnathan.pdfviewer.31.png"
+      "repo/icons/com.gsnathan.pdfviewer.31.png",
+      "update.py.orig"
     ]
   },
-  "startTimestamp": 1678527218000,
+  "startTimestamp": 1678538336000,
   "subcommand": "update"
 }
