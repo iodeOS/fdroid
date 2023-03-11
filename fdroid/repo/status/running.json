@@ -22,7 +22,8 @@
       "repo/status/deploy.json",
       "repo/status/running.json",
       "repo/status/update.json",
-      "tmp/apkcache.json"
+      "tmp/apkcache.json",
+      "update.py"
     ],
     "untrackedFiles": [
       "README.md",
@@ -44,6 +45,6 @@
       "update.py.orig"
     ]
   },
-  "startTimestamp": 1678538774000,
+  "startTimestamp": 1678542358000,
   "subcommand": "deploy"
 }
