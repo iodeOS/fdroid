@@ -1,7 +1,7 @@
 {
   "/etc/issue.net": "Ubuntu 22.10",
   "commandLine": [
-    "/usr/bin/fdroid deploy"
+    "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
     "commitId": "5c05605d5928fcb71c737a31a55db83936fe9c3f",
@@ -45,6 +45,6 @@
       "update.py.orig"
     ]
   },
-  "startTimestamp": 1678542358000,
-  "subcommand": "deploy"
+  "startTimestamp": 1678542394000,
+  "subcommand": "update"
 }
