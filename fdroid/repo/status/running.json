@@ -12,6 +12,7 @@
       "metadata/com.iode.aperture.yml",
       "metadata/com.iode.app.yml",
       "metadata/com.iode.firefox.yml",
+      "metadata/com.iode.jelly.yml",
       "metadata/com.iode.news.yml",
       "metadata/com.iode.opencamera.yml",
       "metadata/wangdaye.com.geometricweather.yml",
@@ -44,6 +45,6 @@
       "repo/icons/com.gsnathan.pdfviewer.31.png"
     ]
   },
-  "startTimestamp": 1689508092000,
+  "startTimestamp": 1689508666000,
   "subcommand": "update"
 }
