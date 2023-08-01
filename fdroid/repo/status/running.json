@@ -7,7 +7,11 @@
     "commitId": "5c05605d5928fcb71c737a31a55db83936fe9c3f",
     "isDirty": true,
     "modifiedFiles": [
+      "metadata/com.android.vending.yml",
       "metadata/com.aurora.store.yml",
+      "metadata/com.google.android.gms.yml",
+      "metadata/com.google.android.gms/en/short_description.txt",
+      "metadata/com.google.android.gms/fr/short_description.txt",
       "metadata/com.gsnathan.pdfviewer.yml",
       "metadata/com.iode.aperture.yml",
       "metadata/com.iode.app.yml",
@@ -45,6 +49,6 @@
       "repo/icons/com.gsnathan.pdfviewer.31.png"
     ]
   },
-  "startTimestamp": 1690901627000,
+  "startTimestamp": 1690902806000,
   "subcommand": "update"
 }
